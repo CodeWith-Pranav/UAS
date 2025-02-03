@@ -31,5 +31,7 @@ for i in arr2:
         fruits2+=1
 
 print(fruits,fruits2)
-
+#eliminating common fruits
+image = cv2.imread(r'C:\Users\deepa\OneDrive\Pictures\Saved Pictures\Screenshots\Screenshot 2025-02-03 172929.png')
+image2 = cv2.imread(r'C:\Users\deepa\OneDrive\Pictures\Saved Pictures\Screenshots\Screenshot 2025-02-03 172941.png')
 
