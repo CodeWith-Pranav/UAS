@@ -1,4 +1,4 @@
-#impoting libraries
+#importing libraries
 import cv2
 import numpy as np
 from ultralytics import YOLO
